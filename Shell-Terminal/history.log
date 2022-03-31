@@ -1,0 +1,20 @@
+ls
+ls - lah
+ls -lah
+cd .config
+cd ..
+ls
+cat history.log
+cat cmd_pkg
+less Notes
+cd Notes
+ls
+cat Notesfromclass3-9-22.txt
+ls
+cd ..
+cat Moby_Dick.txt
+less Moby_Dick.txt
+ls
+ls -lah
+cd cmd_pkg
+ls

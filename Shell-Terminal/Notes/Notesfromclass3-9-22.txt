@@ -1,0 +1,8 @@
+Getch loop
+  -capture keys
+  -parse command
+  -run each command
+    ->passing output to next command
+  -print output
+
+I got the execute command class from the Custom Commands replit. Should help with running all the commands in the same program
