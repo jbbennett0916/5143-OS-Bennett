@@ -1,0 +1,37 @@
+Job1		   		Job2          Is Correct?
+________________|_____________|________________|
+0. New			| New         | X              |
+1. Ready		| Ready		  | X              |
+2. Cpu			| Ready		  |	X              |
+3. run cpu		| Ready       | X              |
+4. run cpu		| Ready       | X              |
+5. run cpu		| Ready       | X              |
+6. run cpu		| Ready       | X              |
+7. run cpu		| Ready       | X              |
+8. Ready		| CPU         | X              |
+9. Ready		| RUN CPU     | X              |
+10. Ready		| Run CPU     | X              |
+11. Ready		| RUN CPU     | X              |
+12	Ready		| RUN CPU     | X              |
+13. Ready		| RUN CPU     | X              |
+14	CPU			| READY       | X              |
+15	run CPU		| Ready       | X              |
+16	waitng		| CPU         | X              |
+17	IO			| run cpu     | X              |
+18	run io		| waiting     | X              |
+19	ready		| IO          | X              |
+20	CPU			| run IO      | X              |
+21	run cpu		| Ready       | X              |
+22	run cpu		| Ready       | X              |
+23	run cpu		| Ready       | X              | 
+24	run cpu		| Ready       | X              |
+25 run cpu		| Ready       | X              |
+26	ready		| cpu         | X              |
+27	ready		| run cpu     | X              |
+28	ready		| run cpu     | X              |
+29	ready		| run cpu     | X              |
+30	ready		| run cpu     | X              |
+31	cpu			| TERM        | X              |
+32	run cpu		| Term        | X              |
+33	term		| Term        | X              |
+________________________________________________
